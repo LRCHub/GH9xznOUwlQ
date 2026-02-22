@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "No Gravity",
+  "base_artist": "She's",
+  "createdAt": "2026-02-22T14:17:40.522492Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "No Gravity",
+      "artist": "Inja feat. Anile",
+      "has_synced": true,
+      "path": "select/01_No_Gravity_Inja_feat._Anile.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "No Gravity (feat. Anile)",
+      "artist": "Inja",
+      "has_synced": true,
+      "path": "select/02_No_Gravity_(feat._Anile)_Inja.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "No Gravity",
+      "artist": "Yoon Mirae",
+      "has_synced": false,
+      "path": "select/03_No_Gravity_Yoon_Mirae.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "No Gravity (Piano Ver.)",
+      "artist": "윤미래 (Yoon Mi Rae)",
+      "has_synced": false,
+      "path": "select/04_No_Gravity_(Piano_Ver.)_윤미래_(Yoon_Mi_Rae).txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "No Gravity",
+      "artist": "Shontelle",
+      "has_synced": true,
+      "path": "select/05_No_Gravity_Shontelle.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "No Gravity",
+      "artist": "Delta Heavy",
+      "has_synced": true,
+      "path": "select/06_No_Gravity_Delta_Heavy.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "No Gravity",
+      "artist": "Vader",
+      "has_synced": false,
+      "path": "select/07_No_Gravity_Vader.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "No Gravity",
+      "artist": "Mads Langer",
+      "has_synced": false,
+      "path": "select/08_No_Gravity_Mads_Langer.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Polar Plateau (No Gravity mix)",
+      "artist": "The Frozen Autumn",
+      "has_synced": true,
+      "path": "select/09_Polar_Plateau_(No_Gravity_mix)_The_Frozen_Autumn.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Chiaro di luna (No Gravity)",
+      "artist": "Jovanotti",
+      "has_synced": true,
+      "path": "select/10_Chiaro_di_luna_(No_Gravity)_Jovanotti.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "No Gravity (video edit)",
+      "artist": "DJ Session One",
+      "has_synced": false,
+      "path": "select/11_No_Gravity_(video_edit)_DJ_Session_One.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "No Gravity (video edit)",
+      "artist": "Session One, DJ",
+      "has_synced": false,
+      "path": "select/12_No_Gravity_(video_edit)_Session_One,_DJ.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "No Gravity",
+      "artist": "Inja x Anile",
+      "has_synced": true,
+      "path": "select/13_No_Gravity_Inja_x_Anile.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "No Gravity",
+      "artist": "SHE'S",
+      "has_synced": false,
+      "path": "select/pl_01_No_Gravity_SHE'S.txt"
+    }
+  ]
+}
