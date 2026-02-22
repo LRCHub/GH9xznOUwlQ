@@ -1,0 +1,95 @@
+# She's – No Gravity
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+I'm like a forgotten sauce
+in the back of shelf
+Just expired
+and was thrown away
+気にしないでいられない
+馬鹿じゃないと耐えれない
+見れば見るほど 手に余る美貌
+思い出せば誘われてたろう
+今はない希望 追いかけても
+もう不毛 I know
+No gravity shoes,
+no gravity heart
+This isn't me!
+It's happens every time
+I'm with you
+Something about you,
+something I said
+They pop like soap bubbles
+from my head
+脳内総動員で考えたって
+大抵グラスの底に沈むの
+No gravity shoes,
+no gravity heart
+This isn't me!
+It's happens every time
+I'm with you
+Yeah I can't forgive myself
+and figured it out
+I'm a coward,
+time is flying by fast
+期待しないわ 人の愛
+興味ないかもわからない
+友達や家族、兄にまで所属
+やるせないな 避けているんだろう
+言葉の包囲網 ああこれ以上
+もう不毛 I know
+No gravity shoes,
+no gravity heart
+This isn't me!
+It's happens every time
+I'm with you
+Something about you,
+something I said
+They pop like soap bubbles
+from my head
+脳内総動員で考えたって
+大抵グラスの底に沈むの
+No gravity shoes,
+no gravity heart
+This isn't me!
+It's happens every time
+I'm with you
+It's all floating
+Feel like an astronaut
+It doesn't suit me,
+but I'm trying to be cool
+抗わない 繕わない
+心の奥で繋がりたいや
+It's all floating
+Feel like an astronaut
+It doesn't suit me,
+but I'm trying to be cool
+抗わない 繕わない
+心の奥で繋がりたいや
+No gravity shoes,
+no gravity heart
+This isn't me!
+It's happens every time
+I'm with you
+Something about you,
+something I said
+They pop like soap bubbles
+from my head
+No gravity shoes,
+no gravity heart
+This isn't me!
+It's happens every time
+I'm with you
+Something about you,
+something I said
+They pop like soap bubbles
+from my head
+脳内総動員で考えたって
+大抵グラスの底に沈むの
+No gravity shoes,
+no gravity heart
+This isn't me!
+It's happens every time
+I'm with you
+```
